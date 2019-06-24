@@ -1,2 +1,2 @@
 # Web Security Academy
-## Lab Solutions From Portswigger Web Security Academy
+## Lab Solutions For Portswigger Web Security Academy
